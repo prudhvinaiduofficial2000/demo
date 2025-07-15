@@ -1,1 +1,3 @@
 welcome to ansible class 
+
+deploy package using ansible 
